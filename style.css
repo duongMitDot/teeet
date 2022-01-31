@@ -185,4 +185,20 @@ svg {
         font: 3.em 'Montserrat';
         top: 0.5em;
     }
+    
+        .timeup {
+        position: absolute;
+        width: 100%;
+        top: 12em;
+        display: flex;
+        justify-content: center;
+    }
+
+    .musics {
+        position: absolute;
+        color: #fff;
+        top: 24em;
+        right: 3em;
+        cursor: pointer;
+    }
 }
