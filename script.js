@@ -8,15 +8,15 @@ const pauseBtn = document.querySelector(".pause-btn")
 const songs = [
   {
       name: "Năm qua tôi đã làm gì",
-      path: 'https://www.nhaccuatui.com/mh/auto/SfYAzGnBuDnD',
+      path: './NamQuaDaLamGiGalaNhacViet2021-NooPhuocThinh-6937919.mp3',
   },
   {
       name: "1 năm mới bình an",
-      path: './music/Mot-Nam-Moi-Binh-An-Son-Tung-M-TP.mp3',
+      path: './Mot-Nam-Moi-Binh-An-Son-Tung-M-TP.mp3',
   },
   {
       name: "Happy New Year",
-      path: "./music/Happy-New-Year-A-Teens.mp3"
+      path: "./Happy-New-Year-A-Teens.mp3"
   }
 ];
 let isPlaying = false
