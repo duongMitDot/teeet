@@ -182,14 +182,14 @@ svg {
         position: absolute;
         width: 100%;
         display: block;
-        font: 3.5em 'Montserrat';
+        font: 3.3em 'Montserrat';
         top: 0.5em;
     }
     
     .timeup {
         position: absolute;
         width: 100%;
-        top: 12em;
+        top: 13em;
         display: flex;
         justify-content: center;
     }
@@ -197,7 +197,7 @@ svg {
     .musics {
         position: absolute;
         color: #fff;
-        top: 24em;
+        top: 28em;
         right: 3em;
         cursor: pointer;
     }
