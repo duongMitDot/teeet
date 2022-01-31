@@ -182,7 +182,7 @@ svg {
         position: absolute;
         width: 100%;
         display: block;
-        font: 3em 'Montserrat';
+        font: 3.em 'Montserrat';
         top: 0.5em;
     }
 }
