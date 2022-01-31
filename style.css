@@ -137,3 +137,41 @@ svg {
 .pause-btn.hide {
     display: none;
 }
+
+@media (max-width: 1200px) {
+    svg {
+        position: absolute;
+        width: 100%;
+        display: block;
+        font: 8em 'Montserrat';
+        top: 0.5em;
+    }
+}
+
+@media (max-width: 940px) {
+    svg {
+        position: absolute;
+        width: 100%;
+        display: block;
+        font: 7em 'Montserrat';
+        top: 0.5em;
+    }
+}
+
+@media (max-width: 840px) {
+    svg {
+        position: absolute;
+        width: 100%;
+        display: block;
+        font: 4.4em 'Montserrat';
+        top: 0.5em;
+    }
+
+    .item_time {
+        overflow: hidden;
+        width: 4em;
+        box-shadow: 0 0 10px 0 #D4145A;
+        border-radius: 0.3em;
+        margin: 1em;
+    }
+}
