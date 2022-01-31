@@ -182,11 +182,11 @@ svg {
         position: absolute;
         width: 100%;
         display: block;
-        font: 3.em 'Montserrat';
+        font: 3.5em 'Montserrat';
         top: 0.5em;
     }
     
-        .timeup {
+    .timeup {
         position: absolute;
         width: 100%;
         top: 12em;
